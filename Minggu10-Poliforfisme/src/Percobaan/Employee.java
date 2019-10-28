@@ -5,5 +5,6 @@ public class Employee {
 
     public String getEmployeeInfo() {
         return name;
+        System.out.print("Hallo");
     }
 }
